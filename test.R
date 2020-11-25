@@ -1,2 +1,3 @@
 print("I am a proof of the")
-print("congra")
+print("congr")
+print("fuck")
